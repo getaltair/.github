@@ -227,12 +227,12 @@ We welcome contributions from:
 
 **Get Support:**
 - 🐛 [Report Issues](https://github.com/getaltair/altair/issues)
-- 💬 [Discord Community](https://discord.gg/altair)
+- 💬 [Discord Community](https://discord.gg/teuGe47Ufk)
 - 📧 [Email Support](mailto:support@getaltair.com)
 
 **Stay Updated:**
 - 📖 [Changelog](https://github.com/getaltair/altair/blob/main/CHANGELOG.md)
-- 🐦 [x](https://x.com/getaltair) *(coming soon)*
+- 🐦 [x](https://x.com/getaltair)
 - 📝 [Blog](https://blog.getaltair.com) *(coming soon)*
 
 ---
